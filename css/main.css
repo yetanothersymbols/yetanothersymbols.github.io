@@ -116,6 +116,7 @@ body {
 }
 
 .top-section .hero-block {
+  color: #fff;
   display: flex;
   flex-direction: column;
   justify-content: center;
